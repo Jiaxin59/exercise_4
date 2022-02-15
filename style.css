@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(255, 166, 30);
+    font-size: 33px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h3 {
+    color: rgb(255, 166, 30);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+li {
+        color: rgb(170, 139, 36);
+        font-size: 18px;
+        font-family:  'Arial Narrow'}
+ul {
+            color: rgb(170, 139, 36);
+            font-size: 18px;
+            font-family:  'Arial Narrow'}
+            
+              
+body {
+                position: relative;
+                top: 100px;
+                left: 150px;
+                width: 1300px;
+                height: 300px;
+                bottom: 100px;
+                background-color: #fffed3;
+                font-family:  'Arial Narrow';
+                font-size: 18px;
+                }       
+.left{
+                    display: block;
+                    float: left;
+                    width: 40%;
+                    height: 100%;
+                    padding: 30px 40px;
+                  }
+.right {
+                    display: block;
+                    float: right;
+                    width: 40%;
+                    height: 100%;
+                    padding: 30px 40px;}
+p:hover {
+                        font-size: 24pt;
+                        color:rgb(192, 29, 0);
+                        background-color: rgba(255, 158, 112, 0.2);
+                        border: transparent 1pt rgb(255, 255, 255);
+
